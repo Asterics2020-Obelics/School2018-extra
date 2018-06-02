@@ -7,4 +7,4 @@ https://github.com/Asterics2020-Obelics/School2018
 Be careful, this repository might be large.
 You may clone it or download each dataset individually:
 
-- [Lofar Calibration dataset](/raw/master/lofar-cal.h5)
+- [Lofar Calibration dataset](https://github.com/Asterics2020-Obelics/School2018-extra/raw/master/lofar-cal.h5)
